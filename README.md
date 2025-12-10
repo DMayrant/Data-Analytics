@@ -42,4 +42,6 @@ Overloading ingestion endpoints
 
 Late data or dropped samples
 
+![image alt](https://github.com/DMayrant/Data-Analytics/blob/main/BatchAnalyticsPipeline.jpeg?raw=true)
+
 
